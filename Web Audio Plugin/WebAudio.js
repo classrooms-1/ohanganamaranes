@@ -1,4 +1,4 @@
-const audioPath = "./StreamingAssets/Audio/";
+const audioPath = "https://cdn.jsdelivr.net/gh/classrooms-1/ohanganamaranes@main/StreamingAssets/Audio/";
 const sourceDictionary = {};
 
 let onSourceEndCallback = undefined;
