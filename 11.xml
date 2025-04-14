@@ -120,7 +120,7 @@
             dataUrl: "",
             frameworkUrl: buildUrl + "/FameGame.framework.js",
             codeUrl: "",
-            streamingAssetsUrl: "StreamingAssets",
+            streamingAssetsUrl: "https://cdn.jsdelivr.net/gh/classrooms-1/ohanganamaranes@main/StreamingAssets",
             companyName: "DefaultCompany",
             productName: "HZ",
             productVersion: "0.1"
